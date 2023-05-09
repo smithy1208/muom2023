@@ -8,4 +8,6 @@
 1. Синхронизация сonnection tracking.
 1. VRRP over VLAN. Classic.
 1. VLAN over VRRP. Рассмотрим плюсы и минусы.
-1. VRRP v3 на link-local адресах (используем ipv6). 
+1. VRRP v3 на link-local адресах (используем ipv6).
+1. "Простой" способ синхронизации настроек.
+1. Способ обойтись только mikrotik.
